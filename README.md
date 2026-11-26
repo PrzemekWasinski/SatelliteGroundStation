@@ -18,6 +18,14 @@ All of the hardware is connected in this configuration:
 
 Raspberry Pi 4 -> 2m USB extension cable -> RTL-SDR Blog V4 -> V-Dipole Antenna
 
+# Results
+
+<img width="560" height="501" alt="msu_mr_rgb_MSU-MR_124_False_Color_corrected" src="https://github.com/user-attachments/assets/08dc1392-b44d-445d-9020-7d93f9fe82f9" />
+
+<img width="560" height="501" alt="msu_mr_rgb_AVHRR_221_False_Color_corrected" src="https://github.com/user-attachments/assets/83d65d2d-ddb6-4a29-bd1d-2098a7c7cbae" />
+
+<img width="312" height="501" alt="msu_mr_rgb_3 75um_IR_(Rainbow)_map" src="https://github.com/user-attachments/assets/bbf8fa76-8b0b-4a8a-ae8e-f3704ef30066" />
+
 # Tech Stack
     Language: C++
     Host: Raspberry Pi 4 8gb with Raspberry Pi OS 64 bit
